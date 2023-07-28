@@ -4,25 +4,49 @@
       "cityName": "Tehran",
       "country": "Iran (Islamic Republic of)",
       "emoji": "🇮🇷",
-      "date": "2023-08-05T00:01:12.000Z",
-      "notes": "tehran",
+      "date": "2023-07-28T01:02:14.446Z",
+      "notes": "test",
       "position": {
-        "lat": "35.68910332526165",
-        "lng": "51.38648986816407"
+        "lat": "35.69747775241819",
+        "lng": "51.36657714843751"
       },
       "id": 1
     },
     {
-      "cityName": "Arefu",
-      "country": "Romania",
-      "emoji": "🇷🇴",
-      "date": "2023-07-28T00:02:33.999Z",
+      "cityName": "Varamin",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "🇮🇷",
+      "date": "2023-07-28T01:05:49.650Z",
       "notes": "",
       "position": {
-        "lat": "45.56858173021154",
-        "lng": "24.6533203125"
+        "lat": "35.309431340346585",
+        "lng": "51.57167830625246"
       },
       "id": 2
+    },
+    {
+      "cityName": "Tal’",
+      "country": "Belarus",
+      "emoji": "🇧🇾",
+      "date": "2023-07-28T01:06:03.143Z",
+      "notes": "",
+      "position": {
+        "lat": "52.856417023799125",
+        "lng": "28.013310639893717"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Daneborg",
+      "country": "Greenland",
+      "emoji": "🇬🇱",
+      "date": "2023-07-28T01:06:12.395Z",
+      "notes": "",
+      "position": {
+        "lat": "77.54493761531147",
+        "lng": "-42.6898274051906"
+      },
+      "id": 4
     }
   ]
 }
