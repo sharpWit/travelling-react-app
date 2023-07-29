@@ -11,42 +11,6 @@
         "lng": "51.36657714843751"
       },
       "id": 1
-    },
-    {
-      "cityName": "Varamin",
-      "country": "Iran (Islamic Republic of)",
-      "emoji": "🇮🇷",
-      "date": "2023-07-28T01:05:49.650Z",
-      "notes": "",
-      "position": {
-        "lat": "35.309431340346585",
-        "lng": "51.57167830625246"
-      },
-      "id": 2
-    },
-    {
-      "cityName": "Tal’",
-      "country": "Belarus",
-      "emoji": "🇧🇾",
-      "date": "2023-07-28T01:06:03.143Z",
-      "notes": "",
-      "position": {
-        "lat": "52.856417023799125",
-        "lng": "28.013310639893717"
-      },
-      "id": 3
-    },
-    {
-      "cityName": "Daneborg",
-      "country": "Greenland",
-      "emoji": "🇬🇱",
-      "date": "2023-07-28T01:06:12.395Z",
-      "notes": "",
-      "position": {
-        "lat": "77.54493761531147",
-        "lng": "-42.6898274051906"
-      },
-      "id": 4
     }
   ]
 }
